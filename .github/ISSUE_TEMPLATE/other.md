@@ -1,7 +1,7 @@
 ---
-name: Other Puppets
+name: Other
 about: Everything else
-title: ''
+title: 'Other: '
 labels: ''
 assignees: ''
 ---
