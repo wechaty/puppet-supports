@@ -5,6 +5,8 @@ Wechaty Puppet Service Providers
 
 to be writen
 
+See: [Wechaty OSS Project and the Commercial Puppet Service Provider (CPSP)](https://github.com/wechaty/PMC/issues/11)
+
 ## What is Wechaty Puppet Service Token
 
 to be writen
