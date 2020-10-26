@@ -11,12 +11,20 @@ See: [Wechaty OSS Project and the Commercial Puppet Service Provider (CPSP)](htt
 
 to be writen
 
+To use the token with Wechaty, the following commands demostrated how to use it under Linux/Macos:
+
+```shell
+export WECHATY_PUPPET_HOSTIE_TOKEN=your_applied_token_at_here
+
+WECHATY_PUPPET=wechaty-puppet-hostie node bot.js
+```
+
 See:
 
 1. [Wechaty Starter Project Template that works out-of-the-box](https://github.com/wechaty/wechaty-getting-started)
 1. [How to create your own Wechaty Hostie Token with the Web Protocol](https://github.com/wechaty/wechaty/issues/1986)
 
-## How to Apply
+## Apply for Token
 
 You can apply a token for using the Wechaty Puppet Service from the Provider.
 
