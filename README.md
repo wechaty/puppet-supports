@@ -30,9 +30,10 @@ You can apply a token for using the Wechaty Puppet Service from the Provider.
 
 Currently, we have the following Wechaty Puppet Service Providers (and it's growing!), to apply token, submit a application by clicking the provider that you want to use.
 
-1. [Apply for using Wechaty Pupppet Rock](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=jcai&labels=rock&template=rock.md&title=Rock%3A+)
-1. [Apply for using Wechaty Pupppet PadLocal](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=padlocal&labels=padlocal&template=padlocal.md&title=PadLocal%3A+)
-1. [Apply for using Wechaty Pupppet WXWork](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=windmemory&labels=wxwork&template=wxwork.md&title=WXWork%3A+)
+1. [Rock](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=jcai&labels=rock&template=rock.md&title=Rock%3A+)
+1. [PadLocal](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=padlocal&labels=padlocal&template=padlocal.md&title=PadLocal%3A+)
+1. [WXWork](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=windmemory&labels=wxwork&template=wxwork.md&title=WXWork%3A+)
+1. [Donut](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=windmemory&labels=donut&template=donut.md&title=Donut%3A+)
 1. to be added...
 
 ## If you are a Wechaty Puppet Service Provider
