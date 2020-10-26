@@ -11,6 +11,11 @@ See: [Wechaty OSS Project and the Commercial Puppet Service Provider (CPSP)](htt
 
 to be writen
 
+See:
+
+1. [Wechaty Starter Project Template that works out-of-the-box](https://github.com/wechaty/wechaty-getting-started)
+1. [How to create your own Wechaty Hostie Token with the Web Protocol](https://github.com/wechaty/wechaty/issues/1986)
+
 ## How to Apply
 
 You can apply a token for using the Wechaty Puppet Service from the Provider.
