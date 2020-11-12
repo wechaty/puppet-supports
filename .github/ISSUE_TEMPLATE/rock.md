@@ -8,6 +8,8 @@ assignees: jcai
 
 ## Question
 
+> # If you only want to apply for token,please contact Juzi.Bot(wechat:juzibot).
+
 > Important：Please file the issue follow the template, or we won't help you to solve the problem.
 
 
