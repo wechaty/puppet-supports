@@ -43,6 +43,10 @@ See:
 
 Please feel free to list yourself to our list, and add your introduction in this README by submitting a Pull Request!
 
+## If you want to become a Wechaty Puppet Service Provider
+
+Please do not hesitate to file an issue to introduce yourself in this repository, then contact us at <https://gitter.im/wechaty/wechaty>!
+
 ## Get Supports
 
 Please ask your question by file an issue at <https://github.com/wechaty/puppet-service-providers/issues/new/choose>
