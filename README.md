@@ -1,6 +1,18 @@
 # puppet-service-providers
 Wechaty Puppet Service Providers
 
+## Buy Token
+
+You can buy token from Wechaty Puppet Service from the Provider.
+
+Currently, we have the following Wechaty Puppet Service Providers (and it's growing!), here is the purchase link.
+
+1. [Buy WXWork](https://qiwei.juzibot.com/user/login?isWechaty=true)
+1. [Buy Rock](http://www.chatools.top/?utm_source=wechaty&utm_medium=referral)
+1. [Buy PadLocal](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=padlocal&labels=padlocal&template=padlocal.md&title=PadLocal%3A+)
+1. [Buy Donut](https://qiwei.juzibot.com/user/login?isWechaty=true)
+1. to be added...
+
 ## Apply for Token
 
 You can apply a token for using the Wechaty Puppet Service from the Provider.
