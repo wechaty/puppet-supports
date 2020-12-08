@@ -1,29 +1,18 @@
-# puppet-service-providers
-Wechaty Puppet Service Providers
+# puppet-services
 
-## Buy Token
+Wechaty Puppet Services
 
-You can buy token from Wechaty Puppet Service from the Provider.
+## Get Your Wechaty Puppet Service Token
 
-Currently, we have the following Wechaty Puppet Service Providers (and it's growing!), here is the purchase link.
+You can get a token from Wechaty Puppet Service from the Provider. Currently, we have the following Wechaty Puppet Service Providers (and it's growing!), you can learn them more from the following links.
 
-1. [Buy WXWork](https://qiwei.juzibot.com/user/login?isWechaty=true)
-1. [Buy Rock](http://www.chatools.top/?utm_source=wechaty&utm_medium=referral)
-1. [Buy PadLocal](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=padlocal&labels=padlocal&template=padlocal.md&title=PadLocal%3A+)
-1. [Buy Donut](https://qiwei.juzibot.com/user/login?isWechaty=true)
+1. [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
+1. [Rock](https://wechaty.js.org/docs/puppet-services/rock)
+1. [PadLocal](https://wechaty.js.org/docs/puppet-services/padlocal)
+1. [Donut](https://wechaty.js.org/docs/puppet-services/donut)
 1. to be added...
 
-## Apply for Token
-
-You can apply a token for using the Wechaty Puppet Service from the Provider.
-
-Currently, we have the following Wechaty Puppet Service Providers (and it's growing!), to apply token, submit a application by clicking the provider that you want to use.
-
-1. [Apply for WXWork](https://github.com/juzibot/wxwork-tester)
-1. [Apply for Rock](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=jcai&labels=rock&template=rock.md&title=Rock%3A+)
-1. [Apply for PadLocal](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=padlocal&labels=padlocal&template=padlocal.md&title=PadLocal%3A+)
-1. [Apply for Donut](https://github.com/wechaty/puppet-service-providers/issues/new?assignees=windmemory&labels=donut&template=donut.md&title=Donut%3A+)
-1. to be added...
+> Apply for Token from [here](https://github.com/wechaty/puppet-services/issues/new/choose) if you joined the [Wechaty Developer Program](https://wechaty.js.org/docs/developer-program/)
 
 ## FAQ
 
