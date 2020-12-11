@@ -3,7 +3,6 @@ name: Rock
 about: wechaty-puppet-rock Related Questions
 title: 'Rock: '
 labels: rock
-assignees: jcai
 ---
 
 ## Question
