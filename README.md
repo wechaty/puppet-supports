@@ -1,8 +1,12 @@
 # puppet-services
 
+![Puppets](docs/images/five-puppets.jpg)
+
+> Image credit: [...Services With Puppet](https://blog.ipswitch.com/managing-windows-services-with-puppet)
+
 Wechaty Puppet Services enable Wechaty to connect to the different IMs (WeChat, Whatsapp, Gitter, DingTalk, Lark, etc) as well as different Protocols (Web, Pad, Windows, macOS, etc).
 
-Learn more from our website at <https://wechaty.js.org/docs/puppet-servcies/>
+> Learn more from our website at <https://wechaty.js.org/docs/puppet-servcies/>
 
 ## Get Your Wechaty Puppet Service Token
 
@@ -41,7 +45,6 @@ See:
 1. [Wechaty Starter Project Template that works out-of-the-box](https://github.com/wechaty/wechaty-getting-started)
 1. [How to create your own Wechaty Hostie Token with the Web Protocol](https://github.com/wechaty/wechaty/issues/1986)
 
-
 ## If you are a Wechaty Puppet Service Provider
 
 Please feel free to list yourself to our list, and add your introduction in this README by submitting a Pull Request!
@@ -50,10 +53,11 @@ Please feel free to list yourself to our list, and add your introduction in this
 
 Please do not hesitate to file an issue to introduce yourself in this repository, then contact us at <https://gitter.im/wechaty/wechaty>!
 
-## Get Supports
+## Support
 
-Please ask your question by file an issue at <https://github.com/wechaty/puppet-service-providers/issues/new/choose>
+Please feel free to ask your question in Wechaty Gitter at <https://gitter.im/wechaty/wechaty>
 
 ## Wechaty Community
 
-<https://wechaty.js.org>
+- Wechaty Website: <https://wechaty.js.org>
+- Wechaty Puppet Service Provider Introduction: <https://wechaty.js.org/docs/puppet-servcies/>
