@@ -1,15 +1,11 @@
 ---
 name: WXWork
-about: wechaty-puppet-wxwork Related Questions
+about: wechaty-puppet-wxwork Related
 title: 'WXWork: '
 labels: wxwork
 assignees: windmemory
 ---
 
-## Wechaty Puppet WXWork
-
-- Repo: <https://github.com/juzibot/wxwork-tester>
-- Provider: [Juzi.BOT](https://juzi.bot)
-- Support: <https://github.com/juzibot/wxwork-tester/issues>
+Please make sure you have read the [Wechaty Puppet Service: WXWork](https://wechaty.js.org/docs/puppet-services/wxwork) from Wechaty Official Website before you continue writting this issue.
 
 ## Question

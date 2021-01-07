@@ -1,15 +1,11 @@
 ---
 name: Donut
-about: wechaty-puppet-donut Related Questions
+about: wechaty-puppet-donut Related
 title: 'Donut: '
 labels: donut
 assignees: windmemory
 ---
 
-## Wechaty Puppet Donut
-
-- Repo: <https://github.com/juzibot/donut-tester>
-- Provider: [Juzi.BOT](https://juzi.bot)
-- Support: <https://github.com/juzibot/donut-tester/issues>
+Please make sure you have read the [Wechaty Puppet Service: Donut](https://wechaty.js.org/docs/puppet-services/donut/) from Wechaty Official Website before you continue writting this issue.
 
 ## Question

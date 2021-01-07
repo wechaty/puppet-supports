@@ -1,9 +1,11 @@
 ---
 name: Rock
-about: wechaty-puppet-rock Related Questions
+about: wechaty-puppet-rock Related
 title: 'Rock: '
 labels: rock
 ---
+
+Please make sure you have read the [Wechaty Puppet Service](https://wechaty.js.org/docs/puppet-services/) from Wechaty Official Website before you continue writting this issue.
 
 ## Question
 

@@ -1,15 +1,11 @@
 ---
 name: PadLocal
-about: wechaty-puppet-padlocal Related Questions
+about: wechaty-puppet-padlocal Related
 title: 'PadLocal: '
 labels: padlocal
 assignees: padlocal
 ---
 
-## Wechaty Puppet PadLocal
-
-- Repo: <https://github.com/padlocal/wechaty-puppet-padlocal>
-- Provider: [PadLocal](https://github.com/padlocal)
-- Support: <https://github.com/padlocal/wechaty-puppet-padlocal/issues>
+Please make sure you have read the [Wechaty Puppet Service: PadLocal](https://wechaty.js.org/docs/puppet-services/padlocal/) from Wechaty Official Website before you continue writting this issue.
 
 ## Question
