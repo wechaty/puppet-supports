@@ -35,9 +35,8 @@ to be writen
 To use the token with Wechaty, the following commands demostrated how to use it under Linux/Macos:
 
 ```shell
-export WECHATY_PUPPET_HOSTIE_TOKEN=your_applied_token_at_here
-
-WECHATY_PUPPET=wechaty-puppet-hostie node bot.js
+export WECHATY_PUPPET_SERVICE_TOKEN=your_applied_token_at_here
+node bot.js
 ```
 
 See:
