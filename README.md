@@ -15,40 +15,21 @@ If you want to learn more about the concepts behind Puppet Service, please read 
 You can get a token from Wechaty Puppet Service from the Provider. Currently, we have the following Wechaty Puppet Service Providers (and it's growing!), you can learn them more from the following links.
 
 1. [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
-1. [Rock](https://wechaty.js.org/docs/puppet-services/rock)
 1. [PadLocal](https://wechaty.js.org/docs/puppet-services/padlocal)
+1. [Paimon](https://wechaty.js.org/docs/puppet-services/paimon)
 1. [Donut](https://wechaty.js.org/docs/puppet-services/donut)
 1. to be added...
 
-> Apply for Token from [here](https://github.com/wechaty/puppet-services/issues/new/choose) if you joined the [Wechaty Developer Program](https://wechaty.js.org/docs/developer-program/)
+> Apply for Token from [here](https://github.com/wechaty/puppet-services/issues/new/choose).
 
-## FAQ
+If you have joined the [Wechaty Contributor Program](https://wechaty.js.org/docs/contributor-program/), please contact Friday.BOT on WeChat.
 
-### 1. What is Wechaty Puppet Service Provider
+## If you want to become Wechaty Puppet Service Provider
 
-to be writen
+Please:
 
-See: [Wechaty OSS Project and the Commercial Puppet Service Provider (CPSP)](https://github.com/wechaty/PMC/issues/11)
-
-### 2. What is Wechaty Puppet Service Token
-
-to be writen
-
-To use the token with Wechaty, the following commands demostrated how to use it under Linux/Macos:
-
-```shell
-export WECHATY_PUPPET_SERVICE_TOKEN=your_applied_token_at_here
-node bot.js
-```
-
-See:
-
-1. [Wechaty Starter Project Template that works out-of-the-box](https://github.com/wechaty/wechaty-getting-started)
-1. [How to create your own Wechaty Hostie Token with the Web Protocol](https://github.com/wechaty/wechaty/issues/1986)
-
-## If you are a Wechaty Puppet Service Provider
-
-Please feel free to list yourself to our list, and add your introduction in this README by submitting a Pull Request!
+1. Contact _huan_ in our Gitter room at <https://gitter.im/wechaty/wechaty>
+1. List yourself to our list, and add your introduction in this README by submitting a Pull Request!
 
 ## If you want to become a Wechaty Puppet Service Provider
 
@@ -56,9 +37,9 @@ Please do not hesitate to file an issue to introduce yourself in this repository
 
 ## Support
 
-Please feel free to ask your question in Wechaty Gitter at <https://gitter.im/wechaty/wechaty>
+Please feel free to ask your question in Wechaty Gitter room at <https://gitter.im/wechaty/wechaty>
 
 ## Wechaty Community
 
 - Wechaty Website: <https://wechaty.js.org>
-- Wechaty Puppet Service Provider Introduction: <https://wechaty.js.org/docs/puppet-services/>
+- Wechaty Puppet Service Documentation: <https://wechaty.js.org/docs/puppet-services/>
