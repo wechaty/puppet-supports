@@ -24,6 +24,14 @@ You can get a token from Wechaty Puppet Service from the Provider. Currently, we
 
 If you have joined the [Wechaty Contributor Program](https://wechaty.js.org/docs/contributor-program/), please contact Friday.BOT on WeChat.
 
+## Feature List
+
+Different Puppet Services has different features.
+
+Read the following table to learn about which feature is supported by which Puppet Service:
+
+Basic Test Table: <https://github.com/wechaty/puppet-services/wiki/Basic-Test>
+
 ## If you want to become Wechaty Puppet Service Provider
 
 Please:
