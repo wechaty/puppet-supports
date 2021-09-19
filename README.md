@@ -4,7 +4,7 @@
 
 > Image credit: [...Services With Puppet](https://blog.ipswitch.com/managing-windows-services-with-puppet)
 
-Wechaty Puppet Services enable Wechaty to connect to the different IMs (WeChat, Whatsapp, Gitter, DingTalk, Lark, etc) as well as different Protocols (Web, Pad, Windows, macOS, etc).
+Wechaty Puppet Services (WPS) enable Wechaty to connect to the different IMs (WeChat, Whatsapp, Gitter, DingTalk, Lark, etc) as well as different Protocols (Web, Pad, Windows, macOS, etc).
 
 If you want to learn more about the concepts behind Puppet Service, please read our blog post: [Introducing Wechaty Puppet Service](https://wechaty.js.org/2021/01/14/wechaty-puppet-service/)
 
