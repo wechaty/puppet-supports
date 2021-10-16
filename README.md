@@ -1,4 +1,4 @@
-# puppet-services
+# puppet-support
 
 ![Puppets](docs/images/five-puppets.jpg)
 
@@ -8,7 +8,7 @@ Wechaty Puppet Services (WPS) enable Wechaty to connect to the different IMs (We
 
 If you want to learn more about the concepts behind Puppet Service, please read our blog post: [Introducing Wechaty Puppet Service](https://wechaty.js.org/2021/01/14/wechaty-puppet-service/)
 
-> Learn more from our website at <https://wechaty.js.org/docs/puppet-services/>
+> Learn more from our website at <https://wechaty.js.org/docs/puppet-support/>
 
 ## Get Your Wechaty Puppet Service Token
 
@@ -30,7 +30,7 @@ Different Puppet Services has different features.
 
 Read the following table to learn about which feature is supported by which Puppet Service:
 
-Basic Test Table: <https://github.com/wechaty/puppet-services/wiki/Basic-Test>
+Basic Test Table: <https://github.com/wechaty/puppet-support/wiki/Basic-Test>
 
 ## If you want to become Wechaty Puppet Service Provider
 
@@ -50,4 +50,4 @@ Please feel free to ask your question in Wechaty Gitter room at <https://gitter.
 ## Wechaty Community
 
 - Wechaty Website: <https://wechaty.js.org>
-- Wechaty Puppet Service Documentation: <https://wechaty.js.org/docs/puppet-services/>
+- Wechaty Puppet Support Documentation: <https://wechaty.js.org/docs/puppet-support/>
