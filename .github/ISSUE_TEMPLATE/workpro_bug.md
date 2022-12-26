@@ -1,7 +1,7 @@
 ---
 name: WorkPro-bug-report
 about: wechaty-puppet-workpro bug report
-title: '[FEAT]WorkPro:'
+title: '[Bug]WorkPro:'
 labels: workpro
 assignees: ["su-chang", "hcfw007"]
 ---
