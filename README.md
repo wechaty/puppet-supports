@@ -14,7 +14,8 @@ If you want to learn more about the concepts behind Puppet Service, please read 
 
 You can get a token from Wechaty Puppet Service from the Provider. Currently, we have the following Wechaty Puppet Service Providers (and it's growing!), you can learn them more from the following links.
 
-1. [WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)
+1. [WorkPro](https://wechaty.js.org/docs/puppet-services/workpro)
+1. ~~[WXWork](https://wechaty.js.org/docs/puppet-services/wxwork)~~ **DEPRECATED**
 1. [PadLocal](https://wechaty.js.org/docs/puppet-services/padlocal)
 1. [Paimon](https://wechaty.js.org/docs/puppet-services/paimon)
 1. [Donut](https://wechaty.js.org/docs/puppet-services/donut)
